@@ -1,5 +1,5 @@
 # Regressao_Linear_Multipla_Sklearn
-Construí um modelo preditivo de preços de carros utilizando Python e bibliotecas como Pandas, NumPy e Scikit-learn. 
+Construi um modelo preditivo de preços de carros utilizando Python e bibliotecas como Pandas, NumPy e Scikit-learn. 
 
 Neste projeto, apliquei com sucesso um modelo de regressão linear múltipla para prever preços de carros.
 
